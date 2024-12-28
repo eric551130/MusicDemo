@@ -1,5 +1,4 @@
-
-
+<!--
 <table>
     <tr>
       <td>1</td>
@@ -37,3 +36,17 @@
        </audio></td>
     </tr>
 </table>
+-->
+
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"></midi-visualizer>
+<midi-player src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+<p>
+<label for="midiFile">Load MIDI file:</label>
+<input type="file" id="midiFile" name="midiFile" accept="audio/midi, audio/x-midi">
+</p>
+
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
