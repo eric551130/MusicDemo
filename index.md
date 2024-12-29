@@ -99,11 +99,11 @@
           <div>
             <midi-visualizer 
               type="piano-roll" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid"
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_4_0.89385.mid"
               id="mainVisualizer4">
             </midi-visualizer>
             <midi-player 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_4_0.89385.mid" 
               sound-font visualizer="#mainVisualizer4">
             </midi-player>
           </div>
@@ -125,10 +125,10 @@
             <midi-visualizer 
               type="piano-roll" 
               id="mainVisualizer6" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid">
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_5_0.83701.mid">
             </midi-visualizer>
             <midi-player 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" sound-font visualizer="#mainVisualizer6">
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_5_0.83701.mid" sound-font visualizer="#mainVisualizer6">
             </midi-player>
           </div>         
         </td>
