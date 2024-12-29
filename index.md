@@ -44,6 +44,7 @@
         <div>
           <midi-visualizer 
             type="piano-roll" 
+            src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"
             id="mainVisualizer">
           </midi-visualizer>
           <midi-player 
