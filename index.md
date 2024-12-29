@@ -127,19 +127,19 @@
       <tr>
           <td>
             <div>
-              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer">
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer midi-visualizer">
               </midi-player>
             </div>
           </td>
           <td>
             <div>
-              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer">
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer midi-visualizer">
               </midi-player>
             </div>       
           </td>
           <td>
             <div>
-              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer">
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer midi-visualizer">
               </midi-player>
             </div>       
           </td>
@@ -147,7 +147,6 @@
     </tbody>
   </table>
   <midi-visualizer type="piano-roll"></midi-visualizer>
-
 </section>
 
 <section id="section3">
