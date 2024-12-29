@@ -53,11 +53,11 @@
             <midi-visualizer 
               type="piano-roll" 
               src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid"
-              id="mainVisualizer1">
+              id="mainVisualizer">
             </midi-visualizer>
             <midi-player 
               src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" 
-              sound-font visualizer="#mainVisualizer1">
+              sound-font visualizer="#mainVisualizer">
             </midi-player>
           </div>
         </td>
