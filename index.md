@@ -63,14 +63,11 @@
         </td>
         <td>
           <div>
-            <midi-visualizer 
-              type="piano-roll" 
-              id="mainVisualizer2" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid">
-            </midi-visualizer>
-            <midi-player 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" sound-font visualizer="#mainVisualizer2">
+            <midi-player
+              src="https://magenta.github.io/magenta-js/music/demos/melody.mid"
+              sound-font visualizer="#myVisualizer">
             </midi-player>
+            <midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
           </div>        
         </td>
         <td>
