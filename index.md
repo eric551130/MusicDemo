@@ -69,15 +69,15 @@
         </td>
         <td>
           <div>
-            <midi-visualizer type="piano-roll" id="mainVisualizer2" src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid"></midi-visualizer>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer2" id="mainPlayer">
+            <midi-visualizer type="piano-roll" id="mainVisualizer" src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid"></midi-visualizer>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
             </midi-player>
           </div>       
         </td>
         <td>
           <div>
-            <midi-visualizer type="piano-roll" id="mainVisualizer3" src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid"></midi-visualizer>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer3" id="mainPlayer">
+            <midi-visualizer type="piano-roll" id="mainVisualizer" src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid"></midi-visualizer>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
             </midi-player>
           </div>       
         </td>
