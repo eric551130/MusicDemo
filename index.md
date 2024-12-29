@@ -150,5 +150,15 @@
   <midi-visualizer type="piano-roll"></midi-visualizer>
 </section>
 
+<section id="section3">
+<h2>2 players, 1 visualizer</h2>
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section3 mainVisualizer">
+              </midi-player>
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/song_1_0.88713.mid" sound-font visualizer="#section3 mainVisualizer">
+              </midi-player>
+<midi-visualizer
+  type="piano-roll">
+</midi-visualizer>
+</section>
 
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
