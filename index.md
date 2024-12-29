@@ -147,7 +147,7 @@
     </tbody>
   </table>
   <midi-visualizer type="piano-roll"></midi-visualizer>
-  
+
 </section>
 
 <section id="section3">
@@ -157,7 +157,8 @@
               <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/song_1_0.88713.mid" sound-font visualizer="#section3 mainVisualizer">
               </midi-player>
 <midi-visualizer
-  type="piano-roll">
+  type="piano-roll" 
+  src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" >
 </midi-visualizer>
 </section>
 
