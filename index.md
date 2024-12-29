@@ -52,11 +52,11 @@
           <div>
             <midi-visualizer 
               type="piano-roll" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav"
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid"
               id="mainVisualizer1">
             </midi-visualizer>
             <midi-player 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" 
               sound-font visualizer="#mainVisualizer1">
             </midi-player>
           </div>
@@ -66,10 +66,10 @@
             <midi-visualizer 
               type="piano-roll" 
               id="mainVisualizer2" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav">
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid">
             </midi-visualizer>
             <midi-player 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" sound-font visualizer="#mainVisualizer2">
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" sound-font visualizer="#mainVisualizer2">
             </midi-player>
           </div>        
         </td>
@@ -78,10 +78,10 @@
             <midi-visualizer 
               type="piano-roll" 
               id="mainVisualizer3" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav">
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid">
             </midi-visualizer>
             <midi-player 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" sound-font visualizer="#mainVisualizer3">
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" sound-font visualizer="#mainVisualizer3">
             </midi-player>
           </div>         
         </td>
@@ -103,11 +103,11 @@
           <div>
             <midi-visualizer 
               type="piano-roll" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav"
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid"
               id="mainVisualizer4">
             </midi-visualizer>
             <midi-player 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" 
               sound-font visualizer="#mainVisualizer4">
             </midi-player>
           </div>
@@ -117,10 +117,10 @@
             <midi-visualizer 
               type="piano-roll" 
               id="mainVisualizer5" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav">
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid">
             </midi-visualizer>
             <midi-player 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" sound-font visualizer="#mainVisualizer5">
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" sound-font visualizer="#mainVisualizer5">
             </midi-player>
           </div>        
         </td>
@@ -129,10 +129,10 @@
             <midi-visualizer 
               type="piano-roll" 
               id="mainVisualizer6" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav">
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid">
             </midi-visualizer>
             <midi-player 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" sound-font visualizer="#mainVisualizer6">
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" sound-font visualizer="#mainVisualizer6">
             </midi-player>
           </div>         
         </td>
