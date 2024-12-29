@@ -146,8 +146,8 @@
       </tr>
     </tbody>
   </table>
-
   <midi-visualizer type="piano-roll"></midi-visualizer>
+  
 </section>
 
 <section id="section3">
