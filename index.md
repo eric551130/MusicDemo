@@ -39,8 +39,8 @@
 -->
 
 <div>
-<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/expert_009.mid"></midi-visualizer>
-<midi-player src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://magenta.github.io/magenta-js/music/demos/melody.mid"></midi-visualizer>
+<midi-player src="https://magenta.github.io/magenta-js/music/demos/melody.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
 </midi-player>
 </div>
 
@@ -60,11 +60,11 @@
             <midi-visualizer 
               type="piano-roll" 
               src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/expert_009.mid" 
-              id="mainVisualizer">
+              id="mainVisualizer1">
             </midi-visualizer>
             <midi-player 
               src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/expert_009.mid" 
-              sound-font visualizer="#mainVisualizer">
+              sound-font visualizer="#mainVisualizer1">
             </midi-player>
           </div>
         </td>
