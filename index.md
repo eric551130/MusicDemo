@@ -43,13 +43,6 @@
         type="audio/mpeg">
        </audio></th> -->
 
-<div>
-  <midi-visualizer type="piano-roll" id="mainVisualizer, #mainVisualizer1" src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid"></midi-visualizer>
-  <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer, #mainVisualizer1" id="mainPlayer">
-  </midi-player>
-</div>
-
-
 <table>
   <thead>
     <tr>
@@ -60,27 +53,27 @@
   </thead>
   <tbody>
     <tr>
-        <th>
+        <td>
           <div>
             <midi-visualizer type="piano-roll" id="mainVisualizer" src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid"></midi-visualizer>
             <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
             </midi-player>
           </div>
-        </th>
-        <th>
+        </td>
+        <td>
           <div>
             <midi-visualizer type="piano-roll" id="mainVisualizer" src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid"></midi-visualizer>
             <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
             </midi-player>
           </div>       
-        </th>
-        <th>
+        </td>
+        <td>
           <div>
             <midi-visualizer type="piano-roll" id="mainVisualizer" src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid"></midi-visualizer>
             <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
             </midi-player>
           </div>       
-        </th>
+        </td>
     </tr>
   </tbody>
 </table>
@@ -119,5 +112,42 @@
     </tr>
   </tbody>
 </table>
+
+
+<section id="section2">
+  <table>
+    <thead>
+      <tr>
+        <th>Expert</th>
+        <th>Baseline</th>
+        <th>RL-Trained</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td>
+            <div>
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 #mainVisualizer" id="mainPlayer">
+              </midi-player>
+            </div>
+          </td>
+          <td>
+            <div>
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 #mainVisualizer" id="mainPlayer">
+              </midi-player>
+            </div>       
+          </td>
+          <td>
+            <div>
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 #mainVisualizer" id="mainPlayer">
+              </midi-player>
+            </div>       
+          </td>
+      </tr>
+    </tbody>
+  </table>
+  <midi-visualizer type="piano-roll"></midi-visualizer>
+</section>
+
 
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
