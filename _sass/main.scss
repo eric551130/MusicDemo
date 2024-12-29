@@ -22,39 +22,78 @@ $instrument-colors: #007bff, #20c997, #dc3545, #6610f2, #ffc107, #e83e8c, #17a2b
   margin: 0;
 }
 
-#mainVisualizer {
-  border-radius: 10px 10px 0 0;
-  border: 1px solid #e9e9e9;
-  border-bottom: none;
-  background: #fefefe;
+// #mainVisualizer {
+//   border-radius: 10px 10px 0 0;
+//   border: 1px solid #e9e9e9;
+//   border-bottom: none;
+//   background: #fefefe;
 
-  .piano-roll-visualizer {
-    width: inherit;
-    overflow: auto;
+//   .piano-roll-visualizer {
+//     width: inherit;
+//     overflow: auto;
   
-    svg {
-      margin: 2px;
+//     svg {
+//       margin: 2px;
   
-      rect.note {
-        opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75);
+//       rect.note {
+//         opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75);
   
-        &.active {
-          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
-          stroke: black;
-          stroke-width: 0.75;
-          stroke-opacity: 0.75;
+//         &.active {
+//           opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+//           stroke: black;
+//           stroke-width: 0.75;
+//           stroke-opacity: 0.75;
+//         }
+//       }
+  
+//       @for $i from 0 to 200 {
+//         $color: nth($instrument-colors, ($i % length($instrument-colors)) + 1);
+//         rect.note[data-instrument="#{$i}"] {
+//           fill: darken(saturate($color, 40%), 10%);
+//         }
+//       }
+//     }
+//   }
+// }
+#section1,
+#section2,
+#section3,
+#section4 {
+  midi-visualizer {
+    border-radius: 10px 10px 0 0;
+    border: 1px solid #e9e9e9;
+    border-bottom: none;
+    background: #fefefe;
+
+    .piano-roll-visualizer {
+      width: inherit;
+      overflow: auto;
+    
+      svg {
+        margin: 2px;
+    
+        rect.note {
+          opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.75);
+    
+          &.active {
+            opacity: calc(min(1, (var(--midi-velocity) + 30) / 128) * 0.9);
+            stroke: black;
+            stroke-width: 0.75;
+            stroke-opacity: 0.75;
+          }
         }
-      }
-  
-      @for $i from 0 to 200 {
-        $color: nth($instrument-colors, ($i % length($instrument-colors)) + 1);
-        rect.note[data-instrument="#{$i}"] {
-          fill: darken(saturate($color, 40%), 10%);
+    
+        @for $i from 0 to 200 {
+          $color: nth($instrument-colors, ($i % length($instrument-colors)) + 1);
+          rect.note[data-instrument="#{$i}"] {
+            fill: darken(saturate($color, 40%), 10%);
+          }
         }
       }
     }
   }
 }
+
 
 #mainPlayer {
   &::part(control-panel) {
