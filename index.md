@@ -38,9 +38,14 @@
 </table>
 -->
 
+<audio controls autoplay>
+        <source src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/WAV_1111/song_5_0.83701.wav"
+        type="audio/mpeg">
+       </audio></th>
+
 <div>
-<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://magenta.github.io/magenta-js/music/demos/melody.mid"></midi-visualizer>
-<midi-player src="https://magenta.github.io/magenta-js/music/demos/melody.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid"></midi-visualizer>
+<midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
 </midi-player>
 </div>
 
