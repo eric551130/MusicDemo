@@ -39,41 +39,105 @@
 -->
 
 <table>
-  <tr>
-      <td>
-        <div>
-          <midi-visualizer 
-            type="piano-roll" 
-            src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"
-            id="mainVisualizer">
-          </midi-visualizer>
-          <midi-player 
-            src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid" 
-            sound-font visualizer="#mainVisualizer">
-          </midi-player>
-        </div>
-      </td>
-      <td>
-        <div>
-          <midi-visualizer type="piano-roll" id="mainVisualizer2" src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"></midi-visualizer>
-          <midi-player src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid" sound-font visualizer="#mainVisualizer2" id="mainPlayer">
-          </midi-player>
-        </div>        
-      </td>
-      <td>
-        <div>
-          <midi-player
-            src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"
-            sound-font visualizer="#section3 midi-visualizer">
-          </midi-player>
-          <midi-visualizer
-            src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid">
-          </midi-visualizer>
-        </div>        
-      </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Expert</th>
+      <th>Baseline</th>
+      <th>RL-Trained</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>
+          <div>
+            <midi-visualizer 
+              type="piano-roll" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav"
+              id="mainVisualizer1">
+            </midi-visualizer>
+            <midi-player 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" 
+              sound-font visualizer="#mainVisualizer1">
+            </midi-player>
+          </div>
+        </td>
+        <td>
+          <div>
+            <midi-visualizer 
+              type="piano-roll" 
+              id="mainVisualizer2" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav">
+            </midi-visualizer>
+            <midi-player 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" sound-font visualizer="#mainVisualizer2">
+            </midi-player>
+          </div>        
+        </td>
+        <td>
+          <div>
+            <midi-visualizer 
+              type="piano-roll" 
+              id="mainVisualizer3" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav">
+            </midi-visualizer>
+            <midi-player 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" sound-font visualizer="#mainVisualizer3">
+            </midi-player>
+          </div>         
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-
+<table>
+  <thead>
+    <tr>
+      <th>Expert</th>
+      <th>Baseline</th>
+      <th>RL-Trained</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>
+          <div>
+            <midi-visualizer 
+              type="piano-roll" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav"
+              id="mainVisualizer4">
+            </midi-visualizer>
+            <midi-player 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" 
+              sound-font visualizer="#mainVisualizer4">
+            </midi-player>
+          </div>
+        </td>
+        <td>
+          <div>
+            <midi-visualizer 
+              type="piano-roll" 
+              id="mainVisualizer5" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav">
+            </midi-visualizer>
+            <midi-player 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" sound-font visualizer="#mainVisualizer5">
+            </midi-player>
+          </div>        
+        </td>
+        <td>
+          <div>
+            <midi-visualizer 
+              type="piano-roll" 
+              id="mainVisualizer6" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav">
+            </midi-visualizer>
+            <midi-player 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/WAV_1111/song_1_0.88713.wav" sound-font visualizer="#mainVisualizer6">
+            </midi-player>
+          </div>         
+        </td>
+    </tr>
+  </tbody>
 </table>
 
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
