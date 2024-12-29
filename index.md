@@ -51,12 +51,12 @@
         <td>
           <div>
             <midi-visualizer 
-              type="staff" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_200_0.mid"
+              type="piano-roll" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/MIDI_1111_song_1_0.88713.mid" 
               id="mainVisualizer">
             </midi-visualizer>
             <midi-player 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_200_0.mid" 
+              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/MIDI_1111_song_1_0.88713.mid" 
               sound-font visualizer="#mainVisualizer">
             </midi-player>
           </div>
