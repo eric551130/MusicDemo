@@ -42,15 +42,20 @@
   <tr>
       <td>
         <div>
-          <midi-visualizer type="piano-roll" id="mainVisualizer" src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"></midi-visualizer>
-          <midi-player src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+          <midi-visualizer 
+            type="piano-roll" 
+            id="mainVisualizer">
+          </midi-visualizer>
+          <midi-player 
+            src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid" 
+            sound-font visualizer="#mainVisualizer">
           </midi-player>
         </div>
       </td>
       <td>
         <div>
-          <midi-visualizer type="piano-roll" id="mainVisualizer" src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"></midi-visualizer>
-          <midi-player src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+          <midi-visualizer type="piano-roll" id="mainVisualizer2" src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"></midi-visualizer>
+          <midi-player src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid" sound-font visualizer="#mainVisualizer2" id="mainPlayer">
           </midi-player>
         </div>        
       </td>
