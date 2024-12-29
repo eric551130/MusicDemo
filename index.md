@@ -43,7 +43,7 @@
         type="audio/mpeg">
        </audio></th> -->
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th>Expert</th>
@@ -111,7 +111,7 @@
         </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 <section id="section2">
@@ -127,25 +127,26 @@
       <tr>
           <td>
             <div>
-              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 #mainVisualizer" id="mainPlayer">
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer">
               </midi-player>
             </div>
           </td>
           <td>
             <div>
-              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 #mainVisualizer" id="mainPlayer">
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer">
               </midi-player>
             </div>       
           </td>
           <td>
             <div>
-              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 #mainVisualizer" id="mainPlayer">
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer">
               </midi-player>
             </div>       
           </td>
       </tr>
     </tbody>
   </table>
+
   <midi-visualizer type="piano-roll"></midi-visualizer>
 </section>
 
