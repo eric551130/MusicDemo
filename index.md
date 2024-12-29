@@ -127,19 +127,19 @@
       <tr>
           <td>
             <div>
-              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer midi-visualizer">
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
               </midi-player>
             </div>
           </td>
           <td>
             <div>
-              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer midi-visualizer">
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
               </midi-player>
             </div>       
           </td>
           <td>
             <div>
-              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 mainVisualizer midi-visualizer">
+              <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
               </midi-player>
             </div>       
           </td>
@@ -149,7 +149,7 @@
   <midi-visualizer type="piano-roll"></midi-visualizer>
 </section>
 
-<section id="section3">
+<!-- <section id="section3">
 <h2>2 players, 1 visualizer</h2>
               <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section3 midi-visualizer">
               </midi-player>
@@ -158,6 +158,6 @@
 <midi-visualizer
   type="piano-roll">
 </midi-visualizer>
-</section>
+</section> -->
 
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
