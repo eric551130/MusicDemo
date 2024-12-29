@@ -51,7 +51,7 @@
         <td>
           <div>
             <midi-visualizer 
-              type="piano-roll" 
+              type="staff" 
               src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_200_0.mid"
               id="mainVisualizer">
             </midi-visualizer>
