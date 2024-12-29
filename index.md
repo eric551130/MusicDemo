@@ -72,14 +72,13 @@
         </td>
         <td>
           <div>
-            <midi-visualizer 
-              type="piano-roll" 
-              id="mainVisualizer3" 
-              src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid">
-            </midi-visualizer>
             <midi-player 
               src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/song_1_0.88713.mid" sound-font visualizer="#mainVisualizer3">
             </midi-player>
+            <midi-visualizer 
+              type="piano-roll" 
+              id="mainVisualizer3">
+            </midi-visualizer>
           </div>         
         </td>
     </tr>
