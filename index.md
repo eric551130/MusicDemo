@@ -38,6 +38,13 @@
 </table>
 -->
 
+<div>
+<midi-visualizer type="piano-roll" id="mainVisualizer" src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/expert_009.mid"></midi-visualizer>
+<midi-player src="https://github.com/eric551130/MusicDemo/raw/refs/heads/main/MIDI_1111/expert_009.mid" sound-font visualizer="#mainVisualizer" id="mainPlayer">
+</midi-player>
+</div>
+
+
 <table>
   <thead>
     <tr>
