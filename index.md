@@ -22,6 +22,14 @@
             </div>       
           </td>
       </tr>
+      <tr>
+          <td>
+            <p>Reward: </p>
+          </td>
+          <td>
+            <p>Reward: </p>              
+          </td>
+      </tr>  
     </tbody>
   </table>
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
@@ -51,6 +59,14 @@
             </div>       
           </td>
       </tr>
+      <tr>
+          <td>
+            <p>Reward: </p>
+          </td>
+          <td>
+            <p>Reward: </p>              
+          </td>
+      </tr>  
     </tbody>
   </table>
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
@@ -80,6 +96,14 @@
             </div>       
           </td>
       </tr>
+      <tr>
+          <td>
+            <p>Reward: </p>
+          </td>
+          <td>
+            <p>Reward: </p>              
+          </td>
+      </tr>   
     </tbody>
   </table>
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
@@ -109,6 +133,14 @@
             </div>       
           </td>
       </tr>
+      <tr>
+          <td>
+            <p>Reward: </p>
+          </td>
+          <td>
+            <p>Reward: </p>              
+          </td>
+      </tr>      
     </tbody>
   </table>
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
