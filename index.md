@@ -4,7 +4,9 @@
     <thead>
       <tr>
         <th>Prompt</th>
+        <td>Reward</td>
         <th>RL-Trained</th>
+        <td>Reward</td>
       </tr>
     </thead>
     <tbody>
@@ -16,20 +18,18 @@
             </div>
           </td>
           <td>
+            <p>0.95</p>
+          </td>          
+          <td>
             <div>
               <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/song_1_0.88713.mid" sound-font visualizer="#section1 midi-visualizer">
               </midi-player>
             </div>       
           </td>
+          <td>
+            <p>0.95</p>
+          </td>           
       </tr>
-      <tr>
-          <td>
-            <p>Reward: </p>
-          </td>
-          <td>
-            <p>Reward: </p>              
-          </td>
-      </tr>  
     </tbody>
   </table>
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
