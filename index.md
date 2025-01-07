@@ -269,10 +269,11 @@
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
 </section>
 
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script><script type="text/x-mathjax-config">
+<script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
+
+<script type="text/x-mathjax-config">
 MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } });
 </script>
-
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({tex2jax: {
           inlineMath: [ ['$','$'], ["\\(","\\)"] ],
@@ -280,6 +281,4 @@ MathJax.Hub.Config({tex2jax: {
         }
       });
 </script>
-
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
-</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script><script type="text/x-mathjax-config">
