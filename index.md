@@ -4,8 +4,8 @@
     <thead>
       <tr>
         <th> </th>
-        <th>Music</th> <th>$R_1$</th> <th>$R_2$</th> <th>$R_3$</th> <th>$R_4$</th> 
-        <th>$R_5$</th> <th>$R_6$</th> <th>$R_7$</th> <th>$R_8$</th> <th>$R_9$</th>         
+        <th>Music</th> <th>$$R_1$$</th> <th>$$R_2$$</th> <th>$$R_3$$</th> <th>$$R_4$$</th> 
+        <th>$$R_5$$</th> <th>$$R_6$$</th> <th>$$R_7$$</th> <th>$$R_8$$</th> <th>$$R_9$$</th>         
       </tr>
     </thead>
     <tbody>
@@ -271,7 +271,7 @@
 
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
 
-<script type="text/x-mathjax-config">
+<!-- <script type="text/x-mathjax-config">
 MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } });
 </script>
 <script type="text/x-mathjax-config">
@@ -281,4 +281,6 @@ MathJax.Hub.Config({tex2jax: {
         }
       });
 </script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script><script type="text/x-mathjax-config">
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+</script> -->
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script><script type="text/x-mathjax-config"></script>
