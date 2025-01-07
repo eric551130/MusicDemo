@@ -1,5 +1,10 @@
 <section id="section1">
   <h2>section 1</h2>
+  <div>
+    <h3> Init </h3>
+    <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+    </midi-player>
+  </div>
   <table>
     <thead>
       <tr>
