@@ -12,7 +12,7 @@
     <tbody>
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -60,7 +60,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -124,7 +124,7 @@
     <tbody>
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -172,7 +172,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -236,7 +236,7 @@
     <tbody>
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -284,7 +284,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -348,7 +348,7 @@
     <tbody>
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -396,7 +396,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -515,7 +515,7 @@
 
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -563,7 +563,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -680,7 +680,7 @@
 
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -728,7 +728,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -845,7 +845,7 @@
 
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -893,7 +893,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -1010,7 +1010,7 @@
 
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -1058,7 +1058,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -1177,7 +1177,7 @@
 
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -1225,7 +1225,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -1342,7 +1342,7 @@
 
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -1390,7 +1390,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -1507,7 +1507,7 @@
 
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -1555,7 +1555,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
@@ -1672,7 +1672,7 @@
 
       <tr>
         <th>
-          <p> Baseline </p>
+          <p> REMI+PH&BC </p>
         </th>
         <td>
           <div>
@@ -1720,7 +1720,7 @@
 
       <tr>
         <th>
-          <p> RL-Trained </p>
+          <p> REMI+PH&BC+RL </p>
         </th>
         <td>
           <div>
