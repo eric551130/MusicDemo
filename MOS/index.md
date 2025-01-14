@@ -1,3 +1,7 @@
+<p>
+  評分網址: <a href="https://forms.gle/o8tWFqqzEUQuDCds9">https://forms.gle/o8tWFqqzEUQuDCds9</a>
+</p>
+
 <h1> Unconditional Generation </h1>
 <section id="section1">
   <table>
