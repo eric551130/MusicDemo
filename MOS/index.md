@@ -12,7 +12,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/unconditional_generation/1.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -21,7 +21,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/unconditional_generation/2.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -33,7 +33,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/unconditional_generation/3.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -42,7 +42,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/unconditional_generation/4.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -54,7 +54,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/unconditional_generation/5.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -63,7 +63,28 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/unconditional_generation/6.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>      
+
+      <tr>
+        <th>
+          <p> 7 </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/unconditional_generation/7.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+        <th>
+          <p> 8 </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/unconditional_generation/8.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -157,8 +178,49 @@
   </table>
 </section>
 
-<section id="PB-section2">
+<section id="PB-section3">
   <h2>Prompt 3</h2>
+  <table>
+    <tbody>
+      <tr>
+        <th>
+          <p> 1 </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>      
+      <tr>
+        <th>
+          <p> 2 </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>
+          <p> 3 </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section id="PB-section4">
+  <h2>Prompt 4</h2>
   <table>
     <tbody>
       <tr>
@@ -282,7 +344,7 @@
   </table>
 </section>
 
-<section id="Phrase-section2">
+<section id="Phrase-section3">
   <h2>Prompt 3</h2>
   <table>
     <tbody>
@@ -322,6 +384,48 @@
     </tbody>
   </table>
 </section>
+
+<section id="Phrase-section4">
+  <h2>Prompt 4</h2>
+  <table>
+    <tbody>
+      <tr>
+        <th>
+          <p> 1 </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>      
+      <tr>
+        <th>
+          <p> 2 </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>
+          <p> 3 </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
 <!--
   Script
 -->
