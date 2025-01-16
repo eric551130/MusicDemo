@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  ReadME: <a href="https://github.com/eric551130/MusicDemo/blob/main/MOS/demo_music/README.md">https://github.com/eric551130/MusicDemo/blob/main/MOS/demo_music/README.md</a>
+  README: <a href="https://github.com/eric551130/MusicDemo/blob/main/MOS/demo_music/README.md">https://github.com/eric551130/MusicDemo/blob/main/MOS/demo_music/README.md</a>
 </p>
 
 <h1> Unconditional Generation </h1>
