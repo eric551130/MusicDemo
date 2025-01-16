@@ -1,5 +1,7 @@
 # 評分指南
 評分網址:https://forms.gle/o8tWFqqzEUQuDCds9
+MIDI撥放器:https://signal.vercel.app/edit
+
 共有三種不同生成方式:
 1. Unconditional Generation
 2. Prompt-Based Generation: 模型輸入是一個測試資料集的樂句

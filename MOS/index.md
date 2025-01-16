@@ -1,5 +1,6 @@
 <p>
   評分網址: <a href="https://forms.gle/o8tWFqqzEUQuDCds9">https://forms.gle/o8tWFqqzEUQuDCds9</a>
+  ReadME: <a href="https://github.com/eric551130/MusicDemo/blob/main/MOS/demo_music/README.md">https://github.com/eric551130/MusicDemo/blob/main/MOS/demo_music/README.md</a>
 </p>
 
 <h1> Unconditional Generation </h1>
@@ -102,11 +103,22 @@
     <tbody>
       <tr>
         <th>
+          <p> Input </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_1/input.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>   
+      <tr>
+        <th>
           <p> 1 </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_1/1.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -117,7 +129,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_1/2.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -128,7 +140,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_1/3.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -143,11 +155,22 @@
     <tbody>
       <tr>
         <th>
+          <p> Input </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_2/input.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>   
+      <tr>
+        <th>
           <p> 1 </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_2/1.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -158,7 +181,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_2/2.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -169,7 +192,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_2/3.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -184,11 +207,22 @@
     <tbody>
       <tr>
         <th>
+          <p> Input </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_3/input.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>   
+      <tr>
+        <th>
           <p> 1 </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_3/1.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -199,7 +233,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_3/2.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -210,7 +244,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_3/3.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -225,11 +259,22 @@
     <tbody>
       <tr>
         <th>
+          <p> Input </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_4/input.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>   
+      <tr>
+        <th>
           <p> 1 </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_4/1.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -240,7 +285,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_4/2.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -251,7 +296,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/prompt_based_generation_4/3.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -259,7 +304,6 @@
     </tbody>
   </table>
 </section>
-
 
 <h1> Prompt-Based Generation (Phrase) </h1>
 <section id="Phrase-section1">
@@ -268,11 +312,22 @@
     <tbody>
       <tr>
         <th>
+          <p> Input </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_1/input.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>   
+      <tr>
+        <th>
           <p> 1 </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_1/1.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -283,7 +338,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_1/2.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -294,7 +349,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_1/3.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -303,17 +358,28 @@
   </table>
 </section>
 
-<section id="Phrase-section2">
+<section id="Phrase-section1">
   <h2>Prompt 2</h2>
   <table>
     <tbody>
       <tr>
         <th>
+          <p> Input </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_2/input.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>   
+      <tr>
+        <th>
           <p> 1 </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_2/1.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -324,7 +390,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_2/2.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -335,7 +401,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_2/3.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -344,17 +410,28 @@
   </table>
 </section>
 
-<section id="Phrase-section3">
+<section id="Phrase-section1">
   <h2>Prompt 3</h2>
   <table>
     <tbody>
       <tr>
         <th>
+          <p> Input </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_3/input.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>   
+      <tr>
+        <th>
           <p> 1 </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_3/1.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -365,7 +442,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_3/2.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -376,7 +453,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_3/3.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -385,17 +462,28 @@
   </table>
 </section>
 
-<section id="Phrase-section4">
-  <h2>Prompt 4</h2>
+<section id="Phrase-section1">
+  <h2>Prompt 1</h2>
   <table>
     <tbody>
+      <tr>
+        <th>
+          <p> Input </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_4/input.mid" sound-font visualizer="#section2 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>   
       <tr>
         <th>
           <p> 1 </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_4/1.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -406,7 +494,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_4/2.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -417,7 +505,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section2 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_4/3.mid" sound-font visualizer="#section2 midi-visualizer">
             </midi-player>
           </div>
         </td>
