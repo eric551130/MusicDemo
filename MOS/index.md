@@ -323,7 +323,17 @@
             </midi-player>
           </div>
         </td>
-      </tr>   
+      </tr> 
+      <tr>
+        <th>
+          <p> Phrase label </p>
+        </th>
+        <td>
+          <div>
+            <p> A8 A10 X3 B8 B9 </p>
+          </div>
+        </td>  
+      </tr>  
       <tr>
         <th>
           <p> 1 </p>
@@ -378,6 +388,16 @@
       </tr>   
       <tr>
         <th>
+          <p> Phrase label </p>
+        </th>
+        <td>
+          <div>
+            <p> A8 A10 </p>
+          </div>
+        </td>  
+      </tr> 
+      <tr>
+        <th>
           <p> 1 </p>
         </th>
         <td>
@@ -430,6 +450,16 @@
       </tr>   
       <tr>
         <th>
+          <p> Phrase label </p>
+        </th>
+        <td>
+          <div>
+            <p> A8 A8 B8 B8 </p>
+          </div>
+        </td>  
+      </tr> 
+      <tr>
+        <th>
           <p> 1 </p>
         </th>
         <td>
@@ -473,6 +503,16 @@
         <th>
           <p> Input </p>
         </th>
+        <tr>
+          <th>
+            <p> Phrase label </p>
+          </th>
+          <td>
+            <div>
+              <p> A8 A8 B8 B8 </p>
+            </div>
+          </td>  
+        </tr> 
         <td>
           <div>
             <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MOS/demo_music/phrase_based_generation_4/input.mid" sound-font visualizer="#section2 midi-visualizer">
