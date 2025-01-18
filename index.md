@@ -832,234 +832,74 @@
 
 
 
-<section id="section8">
-  <h2>section 4</h2>
-  <div>
-    <p> Prompt (Prefix bars of unseen expert data) </p>
-    <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-    </midi-player>
-  </div>
-  <table>
-    <thead>
-      <tr>
-        <th> </th>
-        <th>Music</th> <th>$$r_1$$</th> <th>$$r_2$$</th> <th>$$r_3$$</th> <th>$$r_4$$</th> 
-        <th>$$r_5$$</th> <th>$$r_6$$</th> <th>$$r_7$$</th> <th>$$r_8$$</th> <th>$$r_9$$</th>         
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>
-          <p> Expert </p>
-        </th>
-        <td>
-          <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-            </midi-player>
-          </div>
-        </td>
-        <td>
-          <!-- Reward 1 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 2 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 3 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 4 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 5 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 6 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 7 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 8 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
-        </td>
-      </tr>
-
-      <tr>
-        <th>
-          <p> REMI+PH&BC </p>
-        </th>
-        <td>
-          <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-            </midi-player>
-          </div>
-        </td>
-        <td>
-          <!-- Reward 1 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 2 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 3 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 4 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 5 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 6 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 7 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 8 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
-        </td>
-      </tr>      
-
-      <tr>
-        <th>
-          <p> REMI+PH&BC+RL </p>
-        </th>
-        <td>
-          <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-            </midi-player>
-          </div>
-        </td>
-        <td>
-          <!-- Reward 1 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 2 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 3 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 4 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 5 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 6 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 7 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 8 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
-        </td>
-      </tr>
-
-    </tbody>
-  </table>
-  <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
-</section>
-
-
 <h1> Prompt-Based Generation (Phrase) </h1>
-<section id="section9">
-  <h2>section 1</h2>
-  <div>
-    <p> Prompt (Phrase) </p>
-    <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-    </midi-player>
-  </div>
+<section id="section6">
+  <h2>Section 1</h2>
   <table>
     <thead>
       <tr>
-        <th> </th>
-        <th>Music</th> <th>$$r_1$$</th> <th>$$r_2$$</th> <th>$$r_3$$</th> <th>$$r_4$$</th> 
-        <th>$$r_5$$</th> <th>$$r_6$$</th> <th>$$r_7$$</th> <th>$$r_8$$</th> <th>$$r_9$$</th>         
+        <th>
+          <p> Prompt </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_1/input.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <th> </th>
+        <th>Music</th> <th>$$r_1$$</th> <th>$$r_2$$</th> <th>$$r_3$$</th> <th>$$r_4$$</th> 
+        <th>$$r_5$$</th> <th>$$r_6$$</th> <th>$$r_7$$</th> <th>$$r_8$$</th> <th>$$MOS$$</th>         
+      </tr> 
       <tr>
         <th>
           <p> Expert </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_1/expert.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
         <td>
           <!-- Reward 1 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.95</p>
+          <p>0.935</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>0.95</p>
+          <p>-0.267</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>0.95</p>
+          <p>0.000</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>0.95</p>
+          <p>1.860</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.95</p>
+          <p>0.400</p>
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>0.95</p>
+          <p>0.600</p>
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.95</p>
+          <p>0.000</p>
         </td>
         <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
+          <!-- MOS -->
+          <p>4.575</p>
         </td>
       </tr>
 
@@ -1069,47 +909,47 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_1/baseline.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
         <td>
           <!-- Reward 1 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.95</p>
+          <p>0.869</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>0.95</p>
+          <p>-0.184</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>0.95</p>
+          <p>0.000</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>0.95</p>
+          <p>1.830</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.95</p>
+          <p>0.200</p>
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>0.95</p>
+          <p>0.600</p>
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.95</p>
+          <p>0.080</p>
         </td>
         <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
+          <!-- MOS -->
+          <p>3.825</p>
         </td>
-      </tr>      
+      </tr>
 
       <tr>
         <th>
@@ -1117,114 +957,119 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_1/pg.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
         <td>
           <!-- Reward 1 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.95</p>
+          <p>0.919</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>0.95</p>
+          <p>-0.135</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>0.95</p>
+          <p>0.000</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>0.95</p>
+          <p>1.871</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.95</p>
+          <p>0.400</p>
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>0.95</p>
+          <p>0.800</p>
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.95</p>
+          <p>0.040</p>
         </td>
         <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
+          <!-- MOS -->
+          <p>3.500</p>
         </td>
       </tr>
-
     </tbody>
   </table>
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
 </section>
 
-<section id="section10">
-  <h2>section 2</h2>
-  <div>
-    <p> Prompt (Phrase) </p>
-    <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-    </midi-player>
-  </div>
+<section id="section6">
+  <h2>Section 2</h2>
   <table>
     <thead>
       <tr>
-        <th> </th>
-        <th>Music</th> <th>$$r_1$$</th> <th>$$r_2$$</th> <th>$$r_3$$</th> <th>$$r_4$$</th> 
-        <th>$$r_5$$</th> <th>$$r_6$$</th> <th>$$r_7$$</th> <th>$$r_8$$</th> <th>$$r_9$$</th>         
+        <th>
+          <p> Prompt </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2/input.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <th> </th>
+        <th>Music</th> <th>$$r_1$$</th> <th>$$r_2$$</th> <th>$$r_3$$</th> <th>$$r_4$$</th> 
+        <th>$$r_5$$</th> <th>$$r_6$$</th> <th>$$r_7$$</th> <th>$$r_8$$</th> <th>$$MOS$$</th>         
+      </tr> 
       <tr>
         <th>
           <p> Expert </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2/expert.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
         <td>
           <!-- Reward 1 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.95</p>
+          <p>0.869</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>0.95</p>
+          <p>-0.260</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>0.95</p>
+          <p>-0.086</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>0.95</p>
+          <p>1.916</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.95</p>
+          <p>0.000</p>
         </td>
         <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
+          <!-- MOS -->
+          <p>4.075</p>
         </td>
       </tr>
 
@@ -1234,47 +1079,47 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2/baseline.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
         <td>
           <!-- Reward 1 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.95</p>
+          <p>0.899</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>0.95</p>
+          <p>-0.304</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>0.95</p>
+          <p>-0.043</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>0.95</p>
+          <p>1.944</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.95</p>
+          <p>0.000</p>
         </td>
         <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
+          <!-- MOS -->
+          <p>2.500</p>
         </td>
-      </tr>      
+      </tr>
 
       <tr>
         <th>
@@ -1282,114 +1127,119 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2/pg.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
         <td>
           <!-- Reward 1 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.95</p>
+          <p>0.819</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>0.95</p>
+          <p>-0.222</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>0.95</p>
+          <p>-0.111</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>0.95</p>
+          <p>1.923</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>0.95</p>
+          <p>0.500</p>
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.95</p>
+          <p>0.000</p>
         </td>
         <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
+          <!-- MOS -->
+          <p>3.425</p>
         </td>
       </tr>
-
     </tbody>
   </table>
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
 </section>
 
-<section id="section11">
-  <h2>section 3</h2>
-  <div>
-    <p> Prompt (Phrase) </p>
-    <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-    </midi-player>
-  </div>
+<section id="section6">
+  <h2>Section 3</h2>
   <table>
     <thead>
       <tr>
-        <th> </th>
-        <th>Music</th> <th>$$r_1$$</th> <th>$$r_2$$</th> <th>$$r_3$$</th> <th>$$r_4$$</th> 
-        <th>$$r_5$$</th> <th>$$r_6$$</th> <th>$$r_7$$</th> <th>$$r_8$$</th> <th>$$r_9$$</th>         
+        <th>
+          <p> Prompt </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_3/input.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <th> </th>
+        <th>Music</th> <th>$$r_1$$</th> <th>$$r_2$$</th> <th>$$r_3$$</th> <th>$$r_4$$</th> 
+        <th>$$r_5$$</th> <th>$$r_6$$</th> <th>$$r_7$$</th> <th>$$r_8$$</th> <th>$$MOS$$</th>         
+      </tr> 
       <tr>
         <th>
           <p> Expert </p>
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_3/expert.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
         <td>
           <!-- Reward 1 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.95</p>
+          <p>0.890</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>0.95</p>
+          <p>-0.285</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>0.95</p>
+          <p>-0.035</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>0.95</p>
+          <p>1.675</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.95</p>
+          <p>0.250</p>
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>0.95</p>
+          <p>0.250</p>
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
+          <!-- MOS -->
+          <p>4.525</p>
         </td>
       </tr>
 
@@ -1399,47 +1249,47 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_3/baseline.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
         <td>
           <!-- Reward 1 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.95</p>
+          <p>0.819</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>0.95</p>
+          <p>-0.410</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>0.95</p>
+          <p>-0.071</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>0.95</p>
+          <p>1.611</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.95</p>
+          <p>0.250</p>
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>0.95</p>
+          <p>0.250</p>
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.95</p>
+          <p>0.000</p>
         </td>
         <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
+          <!-- MOS -->
+          <p>3.100</p>
         </td>
-      </tr>      
+      </tr>
 
       <tr>
         <th>
@@ -1447,218 +1297,51 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_3/pg.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
         <td>
           <!-- Reward 1 -->
-          <p>0.95</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.95</p>
+          <p>0.937</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>0.95</p>
+          <p>-0.368</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>0.95</p>
+          <p>0.000</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>0.95</p>
+          <p>1.655</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.95</p>
+          <p>0.500</p>
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>0.95</p>
+          <p>0.750</p>
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.95</p>
+          <p>0.000</p>
         </td>
         <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
+          <!-- MOS -->
+          <p>3.425</p>
         </td>
       </tr>
-
     </tbody>
   </table>
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
 </section>
-
-<section id="section12">
-  <h2>section 4</h2>
-  <div>
-    <p> Prompt (Phrase) </p>
-    <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-    </midi-player>
-  </div>
-  <table>
-    <thead>
-      <tr>
-        <th> </th>
-        <th>Music</th> <th>$$r_1$$</th> <th>$$r_2$$</th> <th>$$r_3$$</th> <th>$$r_4$$</th> 
-        <th>$$r_5$$</th> <th>$$r_6$$</th> <th>$$r_7$$</th> <th>$$r_8$$</th> <th>$$r_9$$</th>         
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>
-          <p> Expert </p>
-        </th>
-        <td>
-          <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-            </midi-player>
-          </div>
-        </td>
-        <td>
-          <!-- Reward 1 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 2 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 3 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 4 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 5 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 6 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 7 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 8 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
-        </td>
-      </tr>
-
-      <tr>
-        <th>
-          <p> REMI+PH&BC </p>
-        </th>
-        <td>
-          <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-            </midi-player>
-          </div>
-        </td>
-        <td>
-          <!-- Reward 1 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 2 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 3 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 4 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 5 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 6 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 7 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 8 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
-        </td>
-      </tr>      
-
-      <tr>
-        <th>
-          <p> REMI+PH&BC+RL </p>
-        </th>
-        <td>
-          <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/MIDI_1111/expert_009.mid" sound-font visualizer="#section1 midi-visualizer">
-            </midi-player>
-          </div>
-        </td>
-        <td>
-          <!-- Reward 1 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 2 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 3 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 4 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 5 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 6 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 7 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 8 -->
-          <p>0.95</p>
-        </td>
-        <td>
-          <!-- Reward 9 -->
-          <p>0.95</p>
-        </td>
-      </tr>
-
-    </tbody>
-  </table>
-  <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
-</section>
-
 
 <!--
   Script
