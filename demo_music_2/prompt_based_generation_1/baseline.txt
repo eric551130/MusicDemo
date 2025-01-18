@@ -1,0 +1,31 @@
+total_number: 1
+
+reward
+
+melody_key_signature: 0.9850374064837906
+chord_key_signature: 0.9399805889539854
+superstrong_progression: -0.2631578947368421
+functional_harmony: 0.0
+consonance: 1.8037406483790515
+chord_phrase_start: 0.2
+melody_duration_phrase_end: 0.4
+cadence: 0.08
+similarity: 0.9657872915267944
+pitch_class_entropy: 2.7755405044352077
+grooving_pattern_similarity: 0.8419117647058824
+melody_distance: 0.7257562003968254
+
+cadence_count
+
+perfect_authentic: 0.0
+imperfect_authentic: 0.0
+plagal: 0.0
+half: 1.0
+deceptive: 0.0
+
+tonic_count
+
+section_start: 1.0
+section_end: 0.0
+phrase_start: 0.2
+phrase_end: 0.2

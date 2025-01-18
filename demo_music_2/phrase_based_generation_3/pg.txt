@@ -1,0 +1,8 @@
+melody_key_signature: 1.0
+chord_key_signature: 0.9378995904846653
+superstrong_progression: -0.3684210526315789
+functional_harmony: 0.0
+consonance: 1.6557894736842103
+chord_phrase_start: 0.5
+melody_duration_phrase_end: 0.75
+cadence: 0.0
