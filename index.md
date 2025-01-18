@@ -490,7 +490,345 @@
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
 </section>
 
+<section id="section6">
+  <h2>Section 2</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>
+          <p> Prompt </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2/input.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th> </th>
+        <th>Music</th> <th>$$r_1$$</th> <th>$$r_2$$</th> <th>$$r_3$$</th> <th>$$r_4$$</th> 
+        <th>$$r_5$$</th> <th>$$r_6$$</th> <th>$$r_7$$</th> <th>$$r_8$$</th> <th>$$MOS$$</th>         
+      </tr> 
+      <tr>
+        <th>
+          <p> Expert </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2/expert.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+        <td>
+          <!-- Reward 1 -->
+          <p>1.000</p>
+        </td>
+        <td>
+          <!-- Reward 2 -->
+          <p>0.869</p>
+        </td>
+        <td>
+          <!-- Reward 3 -->
+          <p>-0.260</p>
+        </td>
+        <td>
+          <!-- Reward 4 -->
+          <p>-0.086</p>
+        </td>
+        <td>
+          <!-- Reward 5 -->
+          <p>1.916</p>
+        </td>
+        <td>
+          <!-- Reward 6 -->
+          <p>1.000</p>
+        </td>
+        <td>
+          <!-- Reward 7 -->
+          <p>1.000</p>
+        </td>
+        <td>
+          <!-- Reward 8 -->
+          <p>0.000</p>
+        </td>
+        <td>
+          <!-- MOS -->
+          <p>4.325</p>
+        </td>
+      </tr>
 
+      <tr>
+        <th>
+          <p> REMI+PH&BC </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2/baseline.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+        <td>
+          <!-- Reward 1 -->
+          <p>1.000</p>
+        </td>
+        <td>
+          <!-- Reward 2 -->
+          <p>0.834</p>
+        </td>
+        <td>
+          <!-- Reward 3 -->
+          <p>-0.500</p>
+        </td>
+        <td>
+          <!-- Reward 4 -->
+          <p>-0.05</p>
+        </td>
+        <td>
+          <!-- Reward 5 -->
+          <p>2.018</p>
+        </td>
+        <td>
+          <!-- Reward 6 -->
+          <p>0.8</p>
+        </td>
+        <td>
+          <!-- Reward 7 -->
+          <p>1.000</p>
+        </td>
+        <td>
+          <!-- Reward 8 -->
+          <p>0.440</p>
+        </td>
+        <td>
+          <!-- MOS -->
+          <p>3.250</p>
+        </td>
+      </tr>
+
+      <tr>
+        <th>
+          <p> REMI+PH&BC+RL </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2/pg.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+        <td>
+          <!-- Reward 1 -->
+          <p>1.000</p>
+        </td>
+        <td>
+          <!-- Reward 2 -->
+          <p>0.896</p>
+        </td>
+        <td>
+          <!-- Reward 3 -->
+          <p>-0.266</p>
+        </td>
+        <td>
+          <!-- Reward 4 -->
+          <p>-0.033</p>
+        </td>
+        <td>
+          <!-- Reward 5 -->
+          <p>1.977</p>
+        </td>
+        <td>
+          <!-- Reward 6 -->
+          <p>1.000</p>
+        </td>
+        <td>
+          <!-- Reward 7 -->
+          <p>1.000</p>
+        </td>
+        <td>
+          <!-- Reward 8 -->
+          <p>0.000</p>
+        </td>
+        <td>
+          <!-- MOS -->
+          <p>3.625</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
+</section>
+
+<section id="section6">
+  <h2>Section 3</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>
+          <p> Prompt </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_3/input.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th> </th>
+        <th>Music</th> <th>$$r_1$$</th> <th>$$r_2$$</th> <th>$$r_3$$</th> <th>$$r_4$$</th> 
+        <th>$$r_5$$</th> <th>$$r_6$$</th> <th>$$r_7$$</th> <th>$$r_8$$</th> <th>$$MOS$$</th>         
+      </tr> 
+      <tr>
+        <th>
+          <p> Expert </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_3/expert.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+        <td>
+          <!-- Reward 1 -->
+          <p>1.000</p>
+        </td>
+        <td>
+          <!-- Reward 2 -->
+          <p>0.890</p>
+        </td>
+        <td>
+          <!-- Reward 3 -->
+          <p>-0.285</p>
+        </td>
+        <td>
+          <!-- Reward 4 -->
+          <p>-0.035</p>
+        </td>
+        <td>
+          <!-- Reward 5 -->
+          <p>1.675</p>
+        </td>
+        <td>
+          <!-- Reward 6 -->
+          <p>0.250</p>
+        </td>
+        <td>
+          <!-- Reward 7 -->
+          <p>0.250</p>
+        </td>
+        <td>
+          <!-- Reward 8 -->
+          <p>0.100</p>
+        </td>
+        <td>
+          <!-- MOS -->
+          <p>4.500</p>
+        </td>
+      </tr>
+
+      <tr>
+        <th>
+          <p> REMI+PH&BC </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_3/baseline.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+        <td>
+          <!-- Reward 1 -->
+          <p>0.992</p>
+        </td>
+        <td>
+          <!-- Reward 2 -->
+          <p>0.884</p>
+        </td>
+        <td>
+          <!-- Reward 3 -->
+          <p>-0.458</p>
+        </td>
+        <td>
+          <!-- Reward 4 -->
+          <p>0.000</p>
+        </td>
+        <td>
+          <!-- Reward 5 -->
+          <p>1.596</p>
+        </td>
+        <td>
+          <!-- Reward 6 -->
+          <p>0.500</p>
+        </td>
+        <td>
+          <!-- Reward 7 -->
+          <p>0.750</p>
+        </td>
+        <td>
+          <!-- Reward 8 -->
+          <p>0.000</p>
+        </td>
+        <td>
+          <!-- MOS -->
+          <p>3.625</p>
+        </td>
+      </tr>
+
+      <tr>
+        <th>
+          <p> REMI+PH&BC+RL </p>
+        </th>
+        <td>
+          <div>
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_3/pg.mid" sound-font visualizer="#section1 midi-visualizer">
+            </midi-player>
+          </div>
+        </td>
+        <td>
+          <!-- Reward 1 -->
+          <p>1.000</p>
+        </td>
+        <td>
+          <!-- Reward 2 -->
+          <p>0.878</p>
+        </td>
+        <td>
+          <!-- Reward 3 -->
+          <p>-0.325</p>
+        </td>
+        <td>
+          <!-- Reward 4 -->
+          <p>0.000</p>
+        </td>
+        <td>
+          <!-- Reward 5 -->
+          <p>1.650</p>
+        </td>
+        <td>
+          <!-- Reward 6 -->
+          <p>0.750</p>
+        </td>
+        <td>
+          <!-- Reward 7 -->
+          <p>0.500</p>
+        </td>
+        <td>
+          <!-- Reward 8 -->
+          <p>0.100</p>
+        </td>
+        <td>
+          <!-- MOS -->
+          <p>3.525</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
+</section>
 
 
 
