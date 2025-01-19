@@ -13,7 +13,7 @@
     <tbody>
       <tr>
         <th>
-          <p> Baseline 1 </p>
+          <p> REMI+PH&BC 1 </p>
         </th>
         <td>
           <div>
@@ -61,7 +61,7 @@
 
       <tr>
         <th>
-          <p> Baseline 2 </p>
+          <p> REMI+PH&BC 2 </p>
         </th>
         <td>
           <div>
@@ -109,7 +109,7 @@
 
       <tr>
         <th>
-          <p> Baseline 3 </p>
+          <p> REMI+PH&BC 3 </p>
         </th>
         <td>
           <div>
@@ -172,7 +172,7 @@
     <tbody>
       <tr>
         <th>
-          <p> Generated 1 </p>
+          <p> REMI+PH&BC+RL 1 </p>
         </th>
         <td>
           <div>
@@ -220,7 +220,7 @@
 
       <tr>
         <th>
-          <p> Generated 2 </p>
+          <p> REMI+PH&BC+RL 2 </p>
         </th>
         <td>
           <div>
@@ -268,7 +268,7 @@
 
       <tr>
         <th>
-          <p> Generated 3 </p>
+          <p> REMI+PH&BC+RL 3 </p>
         </th>
         <td>
           <div>
@@ -318,7 +318,7 @@
   <!-- <midi-visualizer type="piano-roll"></midi-visualizer> -->
 </section>
 
-
+<h1> Conditional Generation </h1>
 <h1> Prompt-Based Generation (Prefix-Sequence) </h1>
 <section id="section5">
   <h2>Section 1</h2>
@@ -592,7 +592,7 @@
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.8</p>
+          <p>0.800</p>
         </td>
         <td>
           <!-- Reward 7 -->
