@@ -500,7 +500,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2/input.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2_new/input.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -518,7 +518,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2/expert.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2_new/expert.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -528,19 +528,19 @@
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.869</p>
+          <p>0.838</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>-0.260</p>
+          <p>-0.142</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>-0.086</p>
+          <p>0.000</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>1.916</p>
+          <p>1.758</p>
         </td>
         <td>
           <!-- Reward 6 -->
@@ -552,11 +552,11 @@
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.000</p>
+          <p>0.400</p>
         </td>
         <td>
           <!-- MOS -->
-          <p>3.750</p>
+          <p>4.666</p>
         </td>
       </tr>
 
@@ -566,7 +566,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2/baseline.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2_new/baseline.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -576,23 +576,23 @@
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.834</p>
+          <p>0.837</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>-0.500</p>
+          <p>-0.121</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>-0.05</p>
+          <p>0.000</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>2.018</p>
+          <p>1.785</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>0.800</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 7 -->
@@ -600,11 +600,11 @@
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.440</p>
+          <p>0.133</p>
         </td>
         <td>
           <!-- MOS -->
-          <p>2.825</p>
+          <p>3.166</p>
         </td>
       </tr>
 
@@ -614,7 +614,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2/pg.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/prompt_based_generation_2_new/pg.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -624,27 +624,27 @@
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.896</p>
+          <p>0.814</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>-0.266</p>
+          <p>-0.171</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>-0.033</p>
+          <p>0.000</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>1.977</p>
+          <p>1.755</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>1.000</p>
+          <p>0.667</p>
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>1.000</p>
+          <p>0.667</p>
         </td>
         <td>
           <!-- Reward 8 -->
@@ -652,7 +652,7 @@
         </td>
         <td>
           <!-- MOS -->
-          <p>3.375</p>
+          <p>4.000</p>
         </td>
       </tr>
     </tbody>
@@ -1013,7 +1013,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2/input.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2_new/input.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -1031,7 +1031,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2/expert.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2_new/expert.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -1041,19 +1041,19 @@
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.869</p>
+          <p>0.838</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>-0.260</p>
+          <p>-0.142</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>-0.086</p>
+          <p>0.000</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>1.916</p>
+          <p>1.758</p>
         </td>
         <td>
           <!-- Reward 6 -->
@@ -1065,11 +1065,11 @@
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.000</p>
+          <p>0.400</p>
         </td>
         <td>
           <!-- MOS -->
-          <p>4.000</p>
+          <p>4.666</p>
         </td>
       </tr>
 
@@ -1079,7 +1079,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2/baseline.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2_new/baseline.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
@@ -1089,23 +1089,23 @@
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.899</p>
+          <p>0.923</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>-0.304</p>
+          <p>-0.138</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>-0.043</p>
+          <p>0.000</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>1.944</p>
+          <p>1.788</p>
         </td>
         <td>
           <!-- Reward 6 -->
-          <p>1.000</p>
+          <p>0.667</p>
         </td>
         <td>
           <!-- Reward 7 -->
@@ -1113,11 +1113,11 @@
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.000</p>
+          <p>0.133</p>
         </td>
         <td>
           <!-- MOS -->
-          <p>3.575</p>
+          <p>3.400</p>
         </td>
       </tr>
 
@@ -1137,19 +1137,19 @@
         </td>
         <td>
           <!-- Reward 2 -->
-          <p>0.819</p>
+          <p>0.873</p>
         </td>
         <td>
           <!-- Reward 3 -->
-          <p>-0.222</p>
+          <p>-0.143</p>
         </td>
         <td>
           <!-- Reward 4 -->
-          <p>-0.111</p>
+          <p>0.000</p>
         </td>
         <td>
           <!-- Reward 5 -->
-          <p>1.923</p>
+          <p>1.771</p>
         </td>
         <td>
           <!-- Reward 6 -->
@@ -1157,15 +1157,15 @@
         </td>
         <td>
           <!-- Reward 7 -->
-          <p>0.500</p>
+          <p>1.000</p>
         </td>
         <td>
           <!-- Reward 8 -->
-          <p>0.000</p>
+          <p>0.400</p>
         </td>
         <td>
           <!-- MOS -->
-          <p>3.675</p>
+          <p>3.600</p>
         </td>
       </tr>
     </tbody>
