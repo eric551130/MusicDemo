@@ -1017,6 +1017,14 @@
     <thead>
       <tr>
         <th>
+          <p> Phrase Labels </p>  
+        </th>
+        <td>
+          <p>A4 A4 B8 C8 C8</p>
+        </td>
+      </tr>
+      <tr>
+        <th>
           <p> Prompt </p>
         </th>
         <td>
@@ -1024,15 +1032,7 @@
             <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2_new/input.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
-        </td>
-      </tr>
-      <tr>
-        <th>
-          <p> Phrase Labels </p>  
-        </th>
-        <td>
-          <p>A4 A4 B8 C8 C8</p>
-        </td>
+        </td>        
       </tr>
     </thead>
     <tbody>
