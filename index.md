@@ -840,6 +840,15 @@
     <thead>
       <tr>
         <th>
+          <p> Phrase Labels </p>  
+        </th>
+        <td>
+          <p>A8 A10 X3 B8 B9</p>
+        </td>
+      </tr>
+      
+      <tr>
+        <th>
           <p> Prompt </p>
         </th>
         <td>
@@ -847,12 +856,6 @@
             <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_1/input.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
-        </td>
-        <th>
-          <p> Phrase Labels </p>  
-        </th>
-        <td>
-          <p>A8 A10 X3 B8 B9</p>
         </td>
       </tr>
 
@@ -1193,6 +1196,15 @@
   <h2>Section 3</h2>
   <table>
     <thead>
+      <tr>
+        <th>
+          <p> Phrase Labels </p>  
+        </th>
+        <td>
+          <p>A8' A8 B8</p>
+        </td>
+      </tr>
+
       <tr>
         <th>
           <p> Prompt </p>
