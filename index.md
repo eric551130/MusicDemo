@@ -1127,7 +1127,7 @@
         </th>
         <td>
           <div>
-            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2/pg.mid" sound-font visualizer="#section1 midi-visualizer">
+            <midi-player src="https://raw.githubusercontent.com/eric551130/MusicDemo/main/demo_music_2/phrase_based_generation_2_new/pg.mid" sound-font visualizer="#section1 midi-visualizer">
             </midi-player>
           </div>
         </td>
