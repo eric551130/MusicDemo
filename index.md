@@ -846,7 +846,7 @@
           <p>A8 A10 X3 B8 B9</p>
         </td>
       </tr>
-      
+
       <tr>
         <th>
           <p> Prompt </p>
@@ -1201,7 +1201,7 @@
           <p> Phrase Labels </p>  
         </th>
         <td>
-          <p>A8' A8 B8</p>
+          <p>A8 A8 B8</p>
         </td>
       </tr>
 
