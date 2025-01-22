@@ -12,3 +12,5 @@ exclude:
 
 keep_files:
   - assets/js
+
+baseurl: ""
