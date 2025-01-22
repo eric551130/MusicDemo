@@ -1026,6 +1026,14 @@
           </div>
         </td>
       </tr>
+      <tr>
+        <th>
+          <p> Phrase Labels </p>  
+        </th>
+        <td>
+          <p>A4 A4 B8 C8 C8</p>
+        </td>
+      </tr>
     </thead>
     <tbody>
       <tr>
