@@ -848,7 +848,14 @@
             </midi-player>
           </div>
         </td>
+        <th>
+          <p> Phrase Labels </p>  
+        </th>
+        <td>
+          <p>A8 A10 X3 B8 B9</p>
+        </td>
       </tr>
+
     </thead>
     <tbody>
       <tr>
